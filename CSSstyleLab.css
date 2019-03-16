@@ -1,0 +1,39 @@
+h1{
+    Color: green;
+    size: 50px;
+    text-align: center;
+}
+h2{
+    color: green;
+    font-style: italic;
+    margin: 1px 1px 1px 1px;
+}
+hr{
+    color: whitesmoke;
+    width: 1500px;
+}
+p{
+    color: #F6CEF5;
+}
+h4{
+    padding: 3px 3px 3px 3px;
+    background-color: antiquewhite;
+    color: lightcoral;
+    width: 150px;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+}
+ol{
+    font-style: italic;
+    color: #D6F7F7;
+    font-family: Times;
+}
+h5{
+    font-style: bold;
+    font-family: arial;
+    color: #1CFD02;
+    text-align: center;
+}
+body{
+    background-color: black
+}
